@@ -6,7 +6,7 @@ https://youtu.be/wxarUsiPEus
 ### 2)Sparks Foundation Task 2 - K- Means Clustering using Python Sckit Learn
 https://youtu.be/LmtViTApcUM
 
-### 3)Sparks Foundation Task 3 -To Explore the Decision tree Algorith
+### 3)Sparks Foundation Task 3 -To Explore the Decision tree  Algorithm
 https://youtu.be/0VPKZMt9ebY
 
 ### 4)Sparks Foundation Task 5 -To Explore Business Analytics
