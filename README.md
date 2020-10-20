@@ -1,4 +1,4 @@
-# The-Sparks-Foundation
+# The Sparks Foundation
 
 ### 1) Sparks Foundation Task 1 -Linear Regression with Python Scikit Learn 
 https://youtu.be/wxarUsiPEus
